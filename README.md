@@ -10,15 +10,15 @@ npm install xitroo
 
 ## Usage
 
-**getBodyHtmlStrict()**
-**getBodyHtml()**
-**getBodyHtmlStrict**
-**getBodyText**
-**getSubject**
+**getBodyHtmlStrict()** <br />
+**getBodyHtml()** <br />
+**getBodyHtmlStrict** <br />
+**getBodyText** <br />
+**getSubject** <br /><br />
 
-of the lastest email
+of the lastest email <br /><br />
 
-Parameters of Xitroo class constructor:
+Parameters of Xitroo class constructor:<br />
 xitrooEmail->string, refreshCounter->number (default 5s), refreshWait(default 5s)->number, httpTimeout(default 15s)->number
 
 
