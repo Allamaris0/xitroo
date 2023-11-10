@@ -10,8 +10,8 @@ npm install xitroo
 
 ## Usage
 
-**getBodyHtmlStrict()** <br />
-**getBodyHtml()** <br />
+**getBodyHtmlStrict** <br />
+**getBodyHtml** <br />
 **getBodyHtmlStrict** <br />
 **getBodyText** <br />
 **getSubject** <br /><br />
